@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hi! Bob.txt I'm Bob. I'm new here.
 Second line with Bob.
 And this is an addition into the master branch.
+=======
+Hi! Bob.txt I'm Bob. I'm new here.
+Second line with Bob.
+Bobby_branch addition
+>>>>>>> bobby_branch
